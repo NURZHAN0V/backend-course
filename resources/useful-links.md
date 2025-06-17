@@ -25,18 +25,13 @@
 ## 🎥 Видеокурсы и каналы
 
 ### YouTube каналы
-- [Ulbi TV](https://www.youtube.com/@UlbiTV) - JavaScript, TypeScript, Node.js на русском
+- [PurpleSchool | Anton Larichev](https://www.youtube.com/@PurpleSchool) - Веб-разработка на русском
 - [Vladilen Minin](https://www.youtube.com/@VladilenMinin) - Веб-разработка на русском
-- [Traversy Media](https://www.youtube.com/user/TechGuyWeb) - Практические туториалы
-- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) - Подробные курсы
+- [RED Group](https://www.youtube.com/@REDGroup) - Веб-разработка на русском
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb) - Практические туториалы на английском
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) - Подробные курсы на английском
 
-### Платформы обучения
-- [Hexlet](https://ru.hexlet.io/) - Профессиональные курсы на русском
-- [Skillbox](https://skillbox.ru/) - Курсы по программированию
-- [FreeCodeCamp](https://www.freecodecamp.org/) - Бесплатные курсы
-- [Udemy](https://www.udemy.com/) - Платные курсы высокого качества
-
-## 📖 Книги
+<!-- ## 📖 Книги
 
 ### JavaScript
 - "Eloquent JavaScript" - Marijn Haverbeke
@@ -56,36 +51,34 @@
 ### Общие темы
 - "Clean Code" - Robert C. Martin
 - "Design Patterns" - Gang of Four
-- "Refactoring" - Martin Fowler
+- "Refactoring" - Martin Fowler -->
 
 ## 🛠 Инструменты разработки
 
 ### Редакторы кода
 - [Visual Studio Code](https://code.visualstudio.com/) - Бесплатный и мощный редактор
-- [WebStorm](https://www.jetbrains.com/webstorm/) - IDE от JetBrains
-- [Vim/Neovim](https://neovim.io/) - Для продвинутых пользователей
+- [Cursor Ai](https://cursor.com/) - Бесплатный и мощный редактор
 
 ### Расширения VS Code
 - **JavaScript/TypeScript:**
-  - ES7+ React/Redux/React-Native snippets
   - JavaScript (ES6) code snippets
-  - TypeScript Importer
+  <!-- - TypeScript Importer -->
   
-- **Git:**
+<!-- - **Git:**
   - GitLens
   - Git Graph
-  - Git History
+  - Git History -->
   
 - **Общие:**
-  - Prettier - Code formatter
+  <!-- - Prettier - Code formatter -->
   - ESLint
-  - Auto Rename Tag
-  - Bracket Pair Colorizer
+  <!-- - Auto Rename Tag -->
+  <!-- - Bracket Pair Colorizer -->
 
-### Терминалы
+<!-- ### Терминалы
 - [Windows Terminal](https://github.com/microsoft/terminal) - Современный терминал для Windows
 - [iTerm2](https://iterm2.com/) - Терминал для macOS
-- [Hyper](https://hyper.is/) - Кроссплатформенный терминал
+- [Hyper](https://hyper.is/) - Кроссплатформенный терминал -->
 
 ## 🌐 Онлайн инструменты
 
@@ -97,79 +90,78 @@
 
 ### Тестирование API
 - [Postman](https://www.postman.com/) - Тестирование REST API
-- [Insomnia](https://insomnia.rest/) - Альтернатива Postman
 - [HTTPie](https://httpie.io/) - Командная строка для HTTP
 
-### Диаграммы и планирование
+<!-- ### Диаграммы и планирование
 - [Draw.io](https://app.diagrams.net/) - Создание диаграмм
 - [Excalidraw](https://excalidraw.com/) - Схемы от руки
-- [Miro](https://miro.com/) - Совместное планирование
+- [Miro](https://miro.com/) - Совместное планирование -->
 
-## 📱 Мобильные приложения
+<!-- ## 📱 Мобильные приложения
 
 - **SoloLearn** - Изучение программирования
 - **Encode** - Курсы по программированию
 - **Programming Hub** - Множество языков программирования
-- **Mimo** - Интерактивное обучение коду
+- **Mimo** - Интерактивное обучение коду -->
 
 ## 🏆 Практические платформы
 
 ### Задачи по программированию
-- [LeetCode](https://leetcode.com/) - Алгоритмические задачи
-- [HackerRank](https://www.hackerrank.com/) - Задачи по различным языкам
+<!-- - [LeetCode](https://leetcode.com/) - Алгоритмические задачи -->
+<!-- - [HackerRank](https://www.hackerrank.com/) - Задачи по различным языкам -->
 - [Codewars](https://www.codewars.com/) - Ката по программированию
-- [Exercism](https://exercism.org/) - Ментор-сопровождение
+<!-- - [Exercism](https://exercism.org/) - Ментор-сопровождение -->
 
 ### Проекты с открытым кодом
 - [GitHub](https://github.com/) - Главная платформа для кода
 - [GitLab](https://gitlab.com/) - Альтернатива GitHub
-- [First Timers Only](https://www.firsttimersonly.com/) - Проекты для новичков
+<!-- - [First Timers Only](https://www.firsttimersonly.com/) - Проекты для новичков -->
 
 ## 🗣 Сообщества
 
 ### Форумы и чаты
 - [Stack Overflow](https://stackoverflow.com/) - Вопросы и ответы по программированию
-- [Reddit r/javascript](https://www.reddit.com/r/javascript/) - JavaScript сообщество
-- [Reddit r/node](https://www.reddit.com/r/node/) - Node.js сообщество
-- [Dev.to](https://dev.to/) - Статьи разработчиков
+<!-- - [Reddit r/javascript](https://www.reddit.com/r/javascript/) - JavaScript сообщество -->
+<!-- - [Reddit r/node](https://www.reddit.com/r/node/) - Node.js сообщество -->
+<!-- - [Dev.to](https://dev.to/) - Статьи разработчиков -->
 
 ### Русскоязычные сообщества
 - [Habr](https://habr.com/) - IT-блоги и статьи
-- [Telegram каналы:**
+<!-- - [Telegram каналы:**
   - @jsunderhood - JavaScript
   - @frontendperson - Фронтенд разработка
-  - @nodejs_ru - Node.js на русском
+  - @nodejs_ru - Node.js на русском -->
 
-### Discord серверы
+<!-- ### Discord серверы
 - JavaScript Community
 - Node.js Community
 - TypeScript Community
-- The Programmer's Hangout
+- The Programmer's Hangout -->
 
 ## 📊 Инструменты для мониторинга
 
-### Производительность
+<!-- ### Производительность
 - [New Relic](https://newrelic.com/) - Мониторинг приложений
 - [DataDog](https://www.datadoghq.com/) - Мониторинг и логирование
-- [Sentry](https://sentry.io/) - Отслеживание ошибок
+- [Sentry](https://sentry.io/) - Отслеживание ошибок -->
 
 ### Аналитика кода
 - [SonarQube](https://www.sonarqube.org/) - Качество кода
 - [ESLint](https://eslint.org/) - Линтер для JavaScript
-- [Prettier](https://prettier.io/) - Форматирование кода
+<!-- - [Prettier](https://prettier.io/) - Форматирование кода -->
 
 ## 🔒 Безопасность
 
 ### Инструменты
-- [Snyk](https://snyk.io/) - Поиск уязвимостей в зависимостях
+<!-- - [Snyk](https://snyk.io/) - Поиск уязвимостей в зависимостях -->
 - [npm audit](https://docs.npmjs.com/cli/v6/commands/npm-audit) - Встроенный аудит npm
-- [OWASP ZAP](https://www.zaproxy.org/) - Тестирование безопасности
+<!-- - [OWASP ZAP](https://www.zaproxy.org/) - Тестирование безопасности -->
 
 ### Ресурсы по безопасности
-- [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Основные уязвимости
-- [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
+<!-- - [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Основные уязвимости
+- [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/) -->
 
-## 💼 Карьера
+<!-- ## 💼 Карьера
 
 ### Подготовка к собеседованиям
 - [InterviewBit](https://www.interviewbit.com/) - Подготовка к техническим интервью
@@ -180,7 +172,7 @@
 - [LinkedIn](https://www.linkedin.com/) - Профессиональная сеть
 - [AngelList](https://angel.co/) - Стартапы
 - [Remote.co](https://remote.co/) - Удаленная работа
-- [We Work Remotely](https://weworkremotely.com/) - Удаленные вакансии
+- [We Work Remotely](https://weworkremotely.com/) - Удаленные вакансии -->
 
 ---
 
