@@ -155,7 +155,9 @@ git cherry-pick -e abc123
 git checkout -b feature-login
 ```
 
-2. Создайте файл `login.js` с содержимым:
+2. Создать в папке `exercises` новую папку `login`
+
+3. Создайте файл `login.js` с содержимым в папке `login`:
 ```javascript
 function login(username, password) {
     console.log(`Logging in user: ${username}`);
@@ -163,13 +165,13 @@ function login(username, password) {
 }
 ```
 
-3. Зафиксируйте изменения:
+4. Зафиксируйте изменения:
 ```bash
 git add login.js
 git commit -m "Add login function"
 ```
 
-4. Переключитесь на main и создайте файл `app.js`:
+5. Переключитесь на main и создайте файл `app.js` в папке `login`:
 ```bash
 git checkout main
 echo "console.log('App started');" > app.js
